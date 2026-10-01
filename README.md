@@ -28,7 +28,7 @@
 | Project | What it does | Tech |
 |---|---|---|
 | [**JobRadar**](https://github.com/muhammad-zeeshan-4854/jobradar) | Collects jobs from several boards, scores them against my skills, removes duplicates and sends new matches to Telegram, email or Discord. Includes a tracking dashboard and a scheduled scan on GitHub Actions. | Python, Flask, SQLite, Docker |
-| [**Netflix Content Explorer**](https://netflix-dashboard-1jo2.onrender.com) | Interactive dashboard on the Netflix dataset with live filters, an interactive world map, auto-generated findings and a data cleaning report. [Code](https://github.com/muhammad-zeeshan-4854/netflix-dashboard) | Python, pandas, Plotly, Streamlit |
+| [**Netflix Content Explorer**](https://netflix-dashboard-ljo2.onrender.com) | Interactive dashboard on the Netflix dataset with live filters, an interactive world map, auto-generated findings and a data cleaning report. [Code](https://github.com/muhammad-zeeshan-4854/netflix-dashboard) | Python, pandas, Plotly, Streamlit |
 | [**Portfolio**](https://github.com/muhammad-zeeshan-4854/muhammad-zeeshan-4854.github.io) | My personal site, with an animated integration hub, dark and light themes and a scroll-driven timeline. No frameworks. | HTML, CSS, JavaScript |
 
 ### Get in touch
